@@ -5,13 +5,13 @@
 - 💬 Verifique minhas contribuições
 
 ## 📊 Frontend
-[![My Skills](https://skillicons.dev/icons?i=vue,js)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=css,htlm,js)](https://skillicons.dev)
 
 ## 📊 Backend
-[![My Skills](https://skillicons.dev/icons?i=nodejs,abap)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev)
 
 ## 📊 Banco de Dados
-[![My Skills](https://skillicons.dev/icons?i=hana)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql,postgres)](https://skillicons.dev)
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=davicastr&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>

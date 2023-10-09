@@ -1,14 +1,14 @@
-### Olá sou o desenvolvedor ABAP DAvi Castro 👋
+### Olá sou o desenvolvedor ABAP Davi Castro 👋
 
-- 🔭 Trabalho com SAP Hana ABAP - Fiori
-- 🌱 Buscando aprimoramento todos os dias
+- 🔭 Trabalho com SAP
+- 🌱 Atualmente atuando como ABAP, Fiori
 - 💬 Verifique minhas contribuições
 
 ## 📊 Frontend
 [![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
 
 ## 📊 Backend
-[![My Skills](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,php,java)](https://skillicons.dev)
 
 ## 📊 Banco de Dados
 [![My Skills](https://skillicons.dev/icons?i=mysql,postgres)](https://skillicons.dev)

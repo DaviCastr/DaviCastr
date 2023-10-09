@@ -1,7 +1,7 @@
 ### Olá sou o desenvolvedor ABAP Davi Castro 👋
 
 - 🔭 Trabalho com SAP
-- 🌱 Atualmente atuando como ABAP, Fiori
+- 🌱 Atualmente atuando com ABAP/Fiori
 - 💬 Verifique minhas contribuições
 
 ## 📊 Frontend

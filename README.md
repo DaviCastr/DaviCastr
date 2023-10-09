@@ -5,7 +5,7 @@
 - 💬 Verifique minhas contribuições
 
 ## 📊 Frontend
-[![My Skills](https://skillicons.dev/icons?i=css,htlm,js)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
 
 ## 📊 Backend
 [![My Skills](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev)

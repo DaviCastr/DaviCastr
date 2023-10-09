@@ -1,19 +1,22 @@
-### Hi there 👋
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+### Olá sou o desenvolvedor ABAP DAvi Castro 👋
 
-<div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="davi-castr" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/davi-castr?trk=profile-badge">Davi Ferreira</a></div>
-              
-<!--
-**DaviCastr/DaviCastr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Trabalho com SAP Hana ABAP - Fiori
+- 🌱 Buscando aprimoramento todos os dias
+- 💬 Verifique minhas contribuições
 
-Here are some ideas to get you started:
+## 📊 Frontend
+[![My Skills](https://skillicons.dev/icons?i=vue,js)](https://skillicons.dev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 Backend
+[![My Skills](https://skillicons.dev/icons?i=nodejs,abap)](https://skillicons.dev)
+
+## 📊 Banco de Dados
+[![My Skills](https://skillicons.dev/icons?i=hana)](https://skillicons.dev)
+
+## 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=davicastr&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=davicastr&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=davicastr&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=davicastr&icon=0&color=0)](https://visitcount.itsvg.in)
